@@ -1,7 +1,4 @@
-Project Name: Random Password Generator
-By: Cortney Bowman
 
-This project involves basic string manipulation, user input, and randomness which are all essential programming concepts.
 
 
 import random
